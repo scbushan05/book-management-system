@@ -66,4 +66,8 @@ You can find the tutorial for this application on my blog -
 
 <http://bushansirgur.in/complete-crud-application-with-spring-boot-hibernate-and-mysql/>
 
+## Demo
+
+![spring-boot](https://user-images.githubusercontent.com/19311256/46258221-54420300-c4e4-11e8-874c-8210053f5743.gif)
+
 
